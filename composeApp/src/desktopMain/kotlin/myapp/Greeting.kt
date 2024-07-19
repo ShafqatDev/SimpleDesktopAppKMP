@@ -1,3 +1,5 @@
+package myapp
+
 class Greeting {
     private val platform = getPlatform()
 
